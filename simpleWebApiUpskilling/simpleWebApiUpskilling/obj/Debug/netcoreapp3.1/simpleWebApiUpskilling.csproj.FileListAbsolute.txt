@@ -1,0 +1,10 @@
+C:\Users\ivan.banos\Documents\Proyectos\Globant\simpleAPiUpskilling\simpleWebApiUpskilling\simpleWebApiUpskilling\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivan.banos\Documents\Proyectos\Globant\simpleAPiUpskilling\simpleWebApiUpskilling\simpleWebApiUpskilling\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivan.banos\Documents\Proyectos\Globant\simpleAPiUpskilling\simpleWebApiUpskilling\simpleWebApiUpskilling\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ivan.banos\Documents\Proyectos\Globant\simpleAPiUpskilling\simpleWebApiUpskilling\simpleWebApiUpskilling\bin\Debug\netcoreapp3.1\simpleWebApiUpskilling.exe
+C:\Users\ivan.banos\Documents\Proyectos\Globant\simpleAPiUpskilling\simpleWebApiUpskilling\simpleWebApiUpskilling\obj\Debug\netcoreapp3.1\simpleWebApiUpskilling.csprojAssemblyReference.cache
+C:\Users\ivan.banos\Documents\Proyectos\Globant\simpleAPiUpskilling\simpleWebApiUpskilling\simpleWebApiUpskilling\obj\Debug\netcoreapp3.1\simpleWebApiUpskilling.AssemblyInfoInputs.cache
+C:\Users\ivan.banos\Documents\Proyectos\Globant\simpleAPiUpskilling\simpleWebApiUpskilling\simpleWebApiUpskilling\obj\Debug\netcoreapp3.1\simpleWebApiUpskilling.AssemblyInfo.cs
+C:\Users\ivan.banos\Documents\Proyectos\Globant\simpleAPiUpskilling\simpleWebApiUpskilling\simpleWebApiUpskilling\obj\Debug\netcoreapp3.1\simpleWebApiUpskilling.RazorTargetAssemblyInfo.cache
+C:\Users\ivan.banos\Documents\Proyectos\Globant\simpleAPiUpskilling\simpleWebApiUpskilling\simpleWebApiUpskilling\obj\Debug\netcoreapp3.1\staticwebassets\simpleWebApiUpskilling.StaticWebAssets.Manifest.cache
+C:\Users\ivan.banos\Documents\Proyectos\Globant\simpleAPiUpskilling\simpleWebApiUpskilling\simpleWebApiUpskilling\obj\Debug\netcoreapp3.1\staticwebassets\simpleWebApiUpskilling.StaticWebAssets.xml
