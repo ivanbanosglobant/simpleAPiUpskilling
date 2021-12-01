@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AmoREOL6Y0jfbyBhfn6PDqLEzQ7xaeXMCSoSqqbFfJFgCAV4c0f0xSJsFGMNxLYOFM8F6HInF9Ep1Xokt9R3IQ==",
+  "dgSpecHash": "JRO59Imh9n7Hg2wjpNPTdYjBRF2hDxIfRdV12WM055Ya/5/gyG7j2PAzWxHQXyyWmq0OQJVPa+Jco3XZZQfiMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ivan.banos\\Documents\\Proyectos\\Globant\\simpleAPiUpskilling\\simpleWebApiUpskilling\\simpleWebApiUpskilling\\simpleWebApiUpskilling.csproj",
+  "projectFilePath": "C:\\Users\\ivan.banos\\Documents\\Proyectos\\Globant\\simpleAPiUpskilling\\simpleWebApiUpskilling\\simpleWebApiUpskilling.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivan.banos\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
   ],

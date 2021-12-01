@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivan.banos\\Documents\\Proyectos\\Globant\\simpleAPiUpskilling\\simpleWebApiUpskilling\\simpleWebApiUpskilling\\simpleWebApiUpskilling.csproj": {}
+    "C:\\Users\\ivan.banos\\Documents\\Proyectos\\Globant\\simpleAPiUpskilling\\simpleWebApiUpskilling\\simpleWebApiUpskilling.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivan.banos\\Documents\\Proyectos\\Globant\\simpleAPiUpskilling\\simpleWebApiUpskilling\\simpleWebApiUpskilling\\simpleWebApiUpskilling.csproj": {
+    "C:\\Users\\ivan.banos\\Documents\\Proyectos\\Globant\\simpleAPiUpskilling\\simpleWebApiUpskilling\\simpleWebApiUpskilling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivan.banos\\Documents\\Proyectos\\Globant\\simpleAPiUpskilling\\simpleWebApiUpskilling\\simpleWebApiUpskilling\\simpleWebApiUpskilling.csproj",
+        "projectUniqueName": "C:\\Users\\ivan.banos\\Documents\\Proyectos\\Globant\\simpleAPiUpskilling\\simpleWebApiUpskilling\\simpleWebApiUpskilling.csproj",
         "projectName": "simpleWebApiUpskilling",
-        "projectPath": "C:\\Users\\ivan.banos\\Documents\\Proyectos\\Globant\\simpleAPiUpskilling\\simpleWebApiUpskilling\\simpleWebApiUpskilling\\simpleWebApiUpskilling.csproj",
+        "projectPath": "C:\\Users\\ivan.banos\\Documents\\Proyectos\\Globant\\simpleAPiUpskilling\\simpleWebApiUpskilling\\simpleWebApiUpskilling.csproj",
         "packagesPath": "C:\\Users\\ivan.banos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivan.banos\\Documents\\Proyectos\\Globant\\simpleAPiUpskilling\\simpleWebApiUpskilling\\simpleWebApiUpskilling\\obj\\",
+        "outputPath": "C:\\Users\\ivan.banos\\Documents\\Proyectos\\Globant\\simpleAPiUpskilling\\simpleWebApiUpskilling\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

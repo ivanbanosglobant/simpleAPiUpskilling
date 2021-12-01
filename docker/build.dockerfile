@@ -3,19 +3,20 @@
 FROM mcr.microsoft.com/dotnet/core/aspnet:3.1-buster-slim AS base
 WORKDIR /app
 EXPOSE 80
+EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1-buster AS build
 WORKDIR /src
-COPY ["WEbApiTestUpskilling/WEbApiTestUpskilling.csproj", "WEbApiTestUpskilling/"]
-RUN dotnet restore "WEbApiTestUpskilling/WEbApiTestUpskilling.csproj"
+COPY ["simpleWebApiUpskilling/simpleWebApiUpskilling.csproj", "simpleWebApiUpskilling/"]
+RUN dotnet restore "simpleWebApiUpskilling/simpleWebApiUpskilling.csproj"
 COPY . .
-WORKDIR "/src/WEbApiTestUpskilling"
-RUN dotnet build "WEbApiTestUpskilling.csproj" -c Release -o /app/build
+WORKDIR "/src/simpleWebApiUpskilling"
+RUN dotnet build "simpleWebApiUpskilling.csproj" -c Release -o /app/build
 
 FROM build AS publish
-RUN dotnet publish "WEbApiTestUpskilling.csproj" -c Release -o /app/publish
+RUN dotnet publish "simpleWebApiUpskilling.csproj" -c Release -o /app/publish
 
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "WEbApiTestUpskilling.dll"]
+ENTRYPOINT ["dotnet", "simpleWebApiUpskilling.dll"]
