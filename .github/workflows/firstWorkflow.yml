@@ -43,4 +43,4 @@ jobs:
             context: .
             file: docker/build.dockerfile
             push: true
-            tags: ${{ secrets.DOCKERHUB_USERNAME }}/webapiupskilling:latest, ${{ secrets.DOCKERHUB_USERNAME }}/webapiupskilling:${{ github.run_number }}
+            tags: ${{ secrets.DOCKERHUB_USERNAME }}/simpleapiupskilling:latest, ${{ secrets.DOCKERHUB_USERNAME }}/simpleapiupskilling:${{ github.run_number }}
